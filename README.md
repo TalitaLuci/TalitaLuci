@@ -22,16 +22,14 @@ I combine engineering problem-solving with data analysis to extract insights fro
 ---
 
 ## 🌐 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/talita-luci-da-silva-engpet" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:engpet.talitaluci@outlook.com">
-    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white"/>
   </a>
 </p>
-  
----
 
+---
 ✨ *Always learning, building and turning data into insights.*
