@@ -1,7 +1,3 @@
-<div>
-  <img src=/terminal.gif">
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:C8A2FF,100:E6D6FF&height=200&section=header&text=Hello,%20I'm%20Talita%20Luci&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20M.Sc.%20Mechanical%20Engineering%20-%20CFD&descAlignY=55&descAlign=50"/>
 </p>
