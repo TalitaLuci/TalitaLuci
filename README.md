@@ -2,13 +2,11 @@
 
 ### Cientista de Dados Júnior | Python • SQL • Machine Learning • Análise de Dados
 
-Sou mestre em Engenharia Mecânica e bacharel em Engenharia de Petróleo, com experiência em **P&D, modelagem matemática, simulação computacional e análise de dados**.
+Sou mestre em Engenharia Mecânica e bacharel em Engenharia de Petróleo, com experiência em P&D, modelagem matemática, simulação computacional e análise de dados.
 
-Atualmente estou em **transição de carreira para Ciência de Dados**, área na qual venho aprofundando meus conhecimentos por meio de formação complementar e projetos autorais.
+Meu primeiro contato mais direto com Ciência de Dados e Machine Learning aconteceu em um projeto de P&D, no qual participei do desenvolvimento de um modelo de redes neurais para otimizar o tempo de simulações computacionais. A experiência despertou meu interesse em aplicar Dados para além dos problemas de Engenharia.
 
-Minha experiência em pesquisa me proporcionou uma base sólida em **Python, modelagem matemática, estatística, análise de dados e resolução de problemas complexos**. Hoje, aplico essa experiência em projetos de Ciência de Dados envolvendo análise exploratória, visualização, Machine Learning e construção de soluções orientadas a dados.
-
-Estou em busca da minha **primeira oportunidade profissional em Ciência de Dados**, onde possa contribuir com minha experiência analítica e, ao mesmo tempo, continuar desenvolvendo minhas habilidades em um ambiente de dados.
+Atualmente, estou em transição de carreira para Ciência de Dados. Concluí a formação de Cientista de Dados da EBAC e venho desenvolvendo projetos autorais com Python, SQL, análise de dados e Machine Learning. Busco minha primeira oportunidade profissional na área, levando minha experiência em problemas complexos e minha base quantitativa para novos desafios.
 
 ---
 
