@@ -1,6 +1,6 @@
 # Talita Luci 👋
 
-### Cientista de Dados Júnior | Python • SQL • Machine Learning • Análise de Dados
+### Cientista de Dados | Python • SQL • Machine Learning • Análise de Dados
 
 Sou mestre em Engenharia Mecânica e bacharel em Engenharia de Petróleo, com experiência em P&D, modelagem matemática, simulação computacional e análise de dados.
 
